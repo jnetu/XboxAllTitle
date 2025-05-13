@@ -1,2 +1,9 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+* text=auto eol=lf
+
+*.json text
+*.csv text
+
+*.json linguist-language=JSON
+*.json linguist-detectable=true
+*.csv linguist-language=CSV
+*.csv linguist-detectable=true
