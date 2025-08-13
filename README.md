@@ -1,9 +1,9 @@
-# Xbox TitleID Catalog
+# XAT - Xbox All Titles
+## Xbox TitleID Catalog
 
 
 
-
-## 📁 About This Project
+### 📁 About This Project
 
 This repository aims to build a comprehensive catalog of all Xbox game Title IDs.
 
